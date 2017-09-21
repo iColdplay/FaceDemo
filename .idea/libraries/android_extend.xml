@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="android-extend">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/android-extend.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
